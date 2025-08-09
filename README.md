@@ -1,8 +1,8 @@
-# To Do List
+* To Do List
 
 Uma aplicação web simples e intuitiva para gerenciamento de tarefas. Ideal para quem busca organizar o dia a dia de forma prática e eficiente.
 
-## Funcionalidades
+* Funcionalidades
 
 - Adicionar novas tarefas
 - Marcar tarefas como concluídas
@@ -10,7 +10,7 @@ Uma aplicação web simples e intuitiva para gerenciamento de tarefas. Ideal par
 - Salvamento automático com `localStorage`
 - Interface responsiva e amigável
 
-##  Tecnologias utilizadas
+* Tecnologias utilizadas
 
 - HTML5
 - CSS3
